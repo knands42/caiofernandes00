@@ -1,11 +1,16 @@
-### <div align=center>Hi there, I'm Caio 👋</div>
+# <div align=center>Hi there, I'm Caio 👋</div>
+### <div align=center>Full stack web developer student</div>
 
 
-- 🌱 I’m currently learning ...
+## <div align=center>My Skill Set</div>
+### <div align=center></div>
 
-- 🤔 I’m looking for help with ...
+## <div align=center>I’m currently learning ...</div>
+### <div align=center></div>
 
+## <div align=center>🤔 I’m looking for help with ...</div>
+### <div align=center></div>
 
-- 📫 How to reach me: ...
-
-- ⚡ Fun fact: ...
+## <div align=center>📫 How to reach me: ...</div>
+### <div align=center>Email: caiow.wk@gmail.com</div>
+### <div align=center>[LinkedIn](https://www.linkedin.com/in/kxk/)</div>
