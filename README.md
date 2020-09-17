@@ -7,6 +7,7 @@
     <img src='https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png' width='50' />
     <img src='https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png' width='50' />
     <img src='https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png' width='50' />
+    </div>
  
 
 
