@@ -3,7 +3,7 @@
 
 
 ## <div align=center>:cyclone: My Skill Set</div>
-### <div align=center>![alt text](https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png) ![alt text](https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png) ![alt text](https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png) ![alt text](https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png)</div>
+### <div align=center>![alt text](https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png =200x200) ![alt text](https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png) ![alt text](https://seeklogo.com/images/N/nodejs-logo-D26404F360-seeklogo.com.png) ![alt text](https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png)</div>
 
 
 ## <div align=center>:book: I’m currently learning ...</div>
