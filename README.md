@@ -12,5 +12,5 @@
 ### <div align=center></div>
 
 ## <div align=center>📫 How to reach me: ...</div>
-### <div align=center>Email: caiow.wk@gmail.com</div>
-### <div align=center>[LinkedIn](https://www.linkedin.com/in/kxk/)</div>
+### <div align=center>Email: [Me](caiow.wk@gmail.com)</div>
+### <div align=center>LinkedIn: [Me](https://www.linkedin.com/in/kxk/)</div>
