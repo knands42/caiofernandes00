@@ -2,7 +2,7 @@
 ### <div align=center>Full stack web developer student</div>
 
 
-## <div align=center>:ciclone: My Skill Set</div>
+## <div align=center>:cyclone: My Skill Set</div>
 ### <div align=center></div>
 
 ## <div align=center>I’m currently learning ...</div>
