@@ -7,8 +7,8 @@
   <img src='https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png' width='40' /> &nbsp;
   <img src='https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/landscape/nextjs.png' width='80' /> &nbsp;
   <img src='https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png' width='40' /> &nbsp;
-  <img src='https://cdn.worldvectorlogo.com/logos/redux-saga.svg' width='40' /> &nbsp;
-  <img src='https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png' width='50' /> &nbsp;
+  <img src='https://cdn.worldvectorlogo.com/logos/redux-saga.svg' width='60' /> &nbsp;
+  <img src='https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png' width='55' /> &nbsp;
   <img src='https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png' width='50' /> &nbsp;
   <img src='https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png' width='50' />  &nbsp;
   <img src='https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png' width='50' />  &nbsp;
