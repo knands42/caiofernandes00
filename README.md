@@ -3,10 +3,10 @@
 
 
 ## <div align=center>:cyclone: My skills that I'm currently studying and focusing</div>
-### <div align=center>    
+### <div align=center>
   <img src='https://seeklogo.com/images/J/javascript-logo-8892AEFCAC-seeklogo.com.png' width='40' /> &nbsp;
   <img src='https://d2eip9sf3oo6c2.cloudfront.net/tags/images/000/001/074/landscape/nextjs.png' width='85' /> &nbsp;
-  <img src='https://w7.pngwing.com/pngs/359/414/png-transparent-redux-react-javascript-angular-cascading-style-sheets-github-purple-violet-text.png' width='40' /> &nbsp;
+  <img src='https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png' width='40' /> &nbsp;
   <img src='https://cdn.worldvectorlogo.com/logos/redux-saga.svg' width='90' /> &nbsp;
   <img src='https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png' width='55' /> &nbsp;
   <img src='https://raw.githubusercontent.com/styled-components/brand/master/styled-components.png' width='50' /> &nbsp;
