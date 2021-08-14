@@ -1,5 +1,6 @@
-# <div align=center>Hi there, I'm Caio 👋</div>
-# <div align=center>Software Engineering at [Itaú](https://www.itau.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=vs-pf-atatdfer-nsttnl-traf-itau&utm_content=af003-google-gog-ca027-nd-cpc-cros-nd-marca-nd-inse-vsatatd00061)</div><br/>
+# <div align=center><p>Hi there, I'm Caio 👋<p>
+  <p>Software Engineering at [Itaú](https://www.itau.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=vs-pf-atatdfer-nsttnl-traf-itau&utm_content=af003-google-gog-ca027-nd-cpc-cros-nd-marca-nd-inse-vsatatd00061)</p></div>
+# <div align=center></div><br/>
 
 ## <div align=center>:cyclone: My skills that I'm currently working with</div>
 ### <div align=center> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width='80' /> &nbsp; <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"  width=50 /> &nbsp; <img src="https://www.bairesdev.com/wp-content/uploads/2021/05/terraform-icon.svg" width=50 /> &nbsp; <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" width=50 /> &nbsp; <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" width=55 /> &nbsp; <img src="https://cdn.iconscout.com/icon/free/png-512/social-275-116309.png" width=60 /> &nbsp;   </div><br/>
