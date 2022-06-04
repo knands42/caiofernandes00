@@ -18,4 +18,4 @@
 
 ## <div align=center>📫 How to reach me: ...</div>
 ### <div align=center>Email: caiow.wk@gmail.com</div>
-### <div align=center>[LinkedIn](https://www.linkedin.com/in/kxk/)</div><br/>
+### <div align=center>[LinkedIn](https://www.linkedin.com/in/caiofernandes00/)</div><br/>
