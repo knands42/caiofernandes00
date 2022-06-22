@@ -16,6 +16,6 @@
 <p align=center></div><br/>
 -->
 
-#### <div📫 How to reach me: ...</div>
-##### <div>Email: caiow.wk@gmail.com</div>
-##### <div>[LinkedIn](https://www.linkedin.com/in/caiofernandes00/)</div><br/>
+#### 📫 How to reach me:
+##### Email: caiow.wk@gmail.com
+##### [LinkedIn](https://www.linkedin.com/in/caiofernandes00/)
