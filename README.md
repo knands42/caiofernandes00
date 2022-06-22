@@ -14,7 +14,7 @@
 <img src='https://cdn.worldvectorlogo.com/logos/postgresql.svg' width='20' />&nbsp; - Postgres (RDS on AWS)<br/>
 
 ## :cyclone: Skills that I have experience with
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width='20' />&nbsp; - NodeJS Platform<br/>
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width='15' />&nbsp; - NodeJS Platform<br/>
 <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width='20' />&nbsp; - NestJS (NodeJS Framework)<br/>
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width='20' />&nbsp; - ReactJS<br/>
 <img src="https://assets.vercel.com/image/upload/v1607554385/repositories/next-js/next-logo.png" width='20' />&nbsp; - NextJS (Fronend React Framework)<br/>
@@ -22,7 +22,7 @@
 <img src="https://cdn.iconscout.com/icon/free/png-512/google-cloud-2038785-1721675.png" width=20 />&nbsp; - Google Cloud Platform (GCP)<br/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/555px-Vue.js_Logo_2.svg.png" width=20 />&nbsp; - VueJS<br/>
 <img src="https://avatars2.githubusercontent.com/u/1335026?v=3&s=400" width=20 />&nbsp; - Firebase<br/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width=20 />&nbsp; - Jenkins (CI/CD)<br/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width=15 />&nbsp; - Jenkins (CI/CD)<br/>
 
 
 <!--
