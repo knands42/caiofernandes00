@@ -17,5 +17,5 @@
 -->
 
 ## 📫 How to reach me:
-&nbsp; Email: caiow.wk@gmail.com<\br>
-&nbsp; [LinkedIn](https://www.linkedin.com/in/caiofernandes00/)<\br>
+&nbsp; Email: caiow.wk@gmail.com<br>
+&nbsp; [LinkedIn](https://www.linkedin.com/in/caiofernandes00/)<br>
