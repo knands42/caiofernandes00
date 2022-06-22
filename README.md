@@ -1,5 +1,5 @@
 ## Hi there, I'm Caio 👋
-🏦 &nbsp;I'm a Software Engineering at [Itaú](https://www.itau.com.br/?utm_source=google&utm_medium=cpc&utm_campaign=vs-pf-atatdfer-nsttnl-traf-itau&utm_content=af003-google-gog-ca027-nd-cpc-cros-nd-marca-nd-inse-vsatatd00061) (a bank company)<br/>
+🏦 &nbsp;I'm a Software Engineering at [Itaú](https://www.itau.com.br/) (a bank company)<br/>
 ⚗️ &nbsp; I Like to create project that helps me to setup a HOME LAB, and for that I'm starting to create some helper projects that is going to be available soon in my github.
 
 ## :cyclone: Skills that I'm currently working with
