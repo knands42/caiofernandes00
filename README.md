@@ -12,10 +12,10 @@
 
 
 <!--
-## <div align=center>🤔 I’m looking for help with ...</div>
-### <div align=center></div><br/>
+<p align=center>🤔 I’m looking for help with ...</div>
+<p align=center></div><br/>
 -->
 
-## <div align=center>📫 How to reach me: ...</div>
-### <div align=center>Email: caiow.wk@gmail.com</div>
-### <div align=center>[LinkedIn](https://www.linkedin.com/in/caiofernandes00/)</div><br/>
+#### <div align=center>📫 How to reach me: ...</div>
+##### <div align=center>Email: caiow.wk@gmail.com</div>
+##### <div align=center>[LinkedIn](https://www.linkedin.com/in/caiofernandes00/)</div><br/>
