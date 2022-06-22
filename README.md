@@ -16,6 +16,6 @@
 <p align=center></div><br/>
 -->
 
-#### 📫 How to reach me:
-##### Email: caiow.wk@gmail.com
-##### [LinkedIn](https://www.linkedin.com/in/caiofernandes00/)
+## 📫 How to reach me:
+&nbsp; Email: caiow.wk@gmail.com
+&nbsp; [LinkedIn](https://www.linkedin.com/in/caiofernandes00/)
