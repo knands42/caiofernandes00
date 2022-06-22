@@ -2,7 +2,7 @@
 🏦 &nbsp;I'm a Software Engineering at [Itaú](https://www.itau.com.br/) (a bank company)<br/>
 ⚗️ &nbsp; I Like to create project that helps me to setup a HOME LAB, and for that I'm starting to create some helper projects that is going to be available soon in my github.
 
-## :cyclone: Skills that I'm currently working with
+## :cyclone: Skills that I'm currently working with ...
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width='20' />&nbsp; - AWS<br/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"  width=20 />&nbsp; - Kotlin<br/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=20 />&nbsp; - Python<br/>
@@ -14,7 +14,7 @@
 <img src="https://cncf-branding.netlify.app/img/projects/argo/icon/color/argo-icon-color.png" width=20 />&nbsp; - Argo CD<br/>
 <img src='https://cdn.worldvectorlogo.com/logos/postgresql.svg' width='20' />&nbsp; - Postgres (RDS on AWS)<br/>
 
-## :cyclone: Skills that I have experience with
+## :cyclone: Skills that I have experience with ...
 <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width='20' />&nbsp; - NodeJS Platform<br/>
 <img src="https://seeklogo.com/images/N/nestjs-logo-09342F76C0-seeklogo.com.png" width='20' />&nbsp; - NestJS (NodeJS Framework)<br/>
 <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" width='20' />&nbsp; - ReactJS<br/>
