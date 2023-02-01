@@ -29,8 +29,3 @@
 
 ## 🤔 I’m looking for help with ...
 - I'm currently working with a personal project with a goal of synchronize my local files into my raspberry pi SMB server. [Check it out](https://github.com/caiofernandes00/File-Watcher-And-Sync) and contribute if you can
-
-
-## 📫 How to reach me:
-&nbsp; Email: caiow.wk@gmail.com<br>
-&nbsp; [LinkedIn](https://www.linkedin.com/in/caiofernandes00/)<br>
