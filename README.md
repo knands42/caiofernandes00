@@ -26,6 +26,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Jenkins_logo.svg/1200px-Jenkins_logo.svg.png" width=20 />&nbsp; - Jenkins (CI/CD)<br/>
 
 
-
+<!--  
 ## 🤔 I’m looking for help with ...
-- I'm currently working with a personal project with a goal of synchronize my local files into my raspberry pi SMB server. [Check it out](https://github.com/caiofernandes00/File-Watcher-And-Sync) and contribute if you can
+- I'm currently working with a personal project with a goal of synchronize my local files into my raspberry pi SMB server. [Check it out]() and contribute if you can
+-->
