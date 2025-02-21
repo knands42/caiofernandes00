@@ -5,10 +5,10 @@
 ## :cyclone: Skills that I'm currently working with ...
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/1024px-AWS_Simple_Icons_AWS_Cloud.svg.png" width='20' />&nbsp; - AWS<br/>
 <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png"  width=20 />&nbsp; - Kotlin<br/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.streamlinehq.com%2Ficons%2Fdownload%2Fapache-spark--31103&psig=AOvVaw0E6K_6PwUGqJlM54hUmZbC&ust=1740263928342000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiM1bXq1YsDFQAAAAAdAAAAABAJ"  width=20 />&nbsp; - Spark<br/>
+<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AApache_Spark_logo.svg&psig=AOvVaw0E6K_6PwUGqJlM54hUmZbC&ust=1740263928342000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiM1bXq1YsDFQAAAAAdAAAAABAh"  width=20 />&nbsp; - Spark<br/>
 <img src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/267_Python-512.png" width=20 />&nbsp; - Python<br/>
 <img src="https://dwglogo.com/wp-content/uploads/2017/08/Go_logo_aqua.png" width=20 />&nbsp; - Golang<br/>
-<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width='20' />&nbsp; - NodeJS Platform<br/>
+<img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" width='20' />&nbsp; - NodeJS<br/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/social-275-116309.png" width=20 />&nbsp; - Docker<br/>
 <img src="https://uxwing.com/wp-content/themes/uxwing/download/10-brands-and-social-media/lambda.png" width=20 />&nbsp; - Lambda Functions<br/>
 <img src="https://www.bairesdev.com/wp-content/uploads/2021/05/terraform-icon.svg" width=20 />&nbsp; - Terraform<br/>
